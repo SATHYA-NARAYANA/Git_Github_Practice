@@ -1,0 +1,178 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  mkdir Practice_2022
+    5  cd Practice_2022/
+    6  mkdir github
+    7  cd github/
+    8  mkdir day1
+    9  cd day1/
+   10  git clone https://github.com/SATHYA-NARAYANA/Git_Github_Practice.git
+   11  ls
+   12  cd Git_Github_Practice/
+   13  ls
+   14  ls -a
+   15  cd ../
+   16  ls
+   17  cd Git_Github_Practice/
+   18  touch swap.py
+   19  ls
+   20  git push
+   21  ls
+   22  git init
+   23  git status
+   24  git add swap.py 
+   25  git status
+   26  git commit -m "lol its funny hows my lofe going"
+   27  git config --global user.email "ksathya1496@gmail.com"
+   28  git commit -m "lol its funny hows my lofe going"
+   29  git status
+   30  git push
+   31  git remove swap.py 
+   32  git delete swap.py 
+   33  git rm swap.py 
+   34  git status
+   35  git push
+   36  git status
+   37  git commit -m "What is happening in this world"
+   38  git init
+   39  ls
+   40  ls
+   41  cd ..
+   42  ls
+   43  cd Git_Github_Practice/
+   44  ls
+   45  mkdir day1
+   46  cd day1/
+   47  touch swap.py
+   48  python3 swap.py
+   49  python swap.py
+   50  notepad swap.py
+   51  python swap.py
+   52  python swap.py
+   53  vim swap.py 
+   54  python swap.py
+   55  git status
+   56  git add swap.py 
+   57  git status
+   58  git commit -m "swap example 1"
+   59  git push
+   60  git status
+   61  ls
+   62  touch swap2.py
+   63  vim swap2.py 
+   64  python swap2.py 
+   65  git add swap2.py 
+   66  git status
+   67  git commit -m "swap example 2"
+   68  git push
+   69  vim swap2.py 
+   70  python swap2.py 
+   71  vim swap2.py 
+   72  python swap2.py 
+   73  vi swap2.py 
+   74  python swap2.py 
+   75  cat swap2.py 
+   76  git commit -m "swap example 2 updated"
+   77  git add swap2.py 
+   78  git commit -m "swap example 2 updated"
+   79  git push
+   80  ls
+   81  vim swap2.py 
+   82  python swap2.py 
+   83  git status
+   84  git commit -a
+   85  git add
+   86  git add .
+   87  git status
+   88  git push
+   89  ls
+   90  cat swap2.py 
+   91  git commit -m "swap example 2 updated with new swap order"
+   92  git push
+   93  tree
+   94  ls
+   95  touch add.py
+   96  vim  add.py
+   97  touch subadd.py
+   98  vim subadd.py 
+   99  python subadd.py 
+  100  ren add.py add.txt
+  101  man rename
+  102  rename
+  103  ls
+  104  rm add.py 
+  105  git status
+  106  rm subadd.py 
+  107  ls
+  108  git status
+  109  rmdir -r f __pycache__/
+  110  rmdir -r -f __pycache__/
+  111  rm -r -f __pycache__/
+  112  ls
+  113  rm -r -f __pycache__/
+  114  git status
+  115  history
+  116  history >> a1.txt
+  117  cat a1.txt 
+  118  ls
+  119  git status
+  120  git add a1.txt 
+  121  git commit -m "commands of all history saved"
+  122  git push
+  123  ls
+  124  history >> a1.txt 
+  125  git status
+  126  git commit -m "history of all commands updated in this file"
+  127  git add a1.txt 
+  128  git commit -m "history of all commands updated in this file"
+  129  git push
+  130  git status
+  131  git help
+  132  diff a1.txt 
+  133  git log
+  134  git help
+  135  cd ..
+  136  ls
+  137  cd ..
+  138  ls
+  139  cd Git_Github_Practice/
+  140  ls
+  141  mkdir day2
+  142  ls
+  143  cd day2
+  144  ls
+  145  touch list1.py
+  146  mv list1.py lsit.py
+  147  ls
+  148  mv lsit.py list1.py
+  149  ls
+  150  nano list1.py 
+  151  ls
+  152  python list1.py 
+  153  git add list1.py 
+  154  git commit "day 2 starting with python list examples"
+  155  git push
+  156  git status
+  157  cd ..
+  158  ls
+  159  git push
+  160  ls
+  161  git push
+  162  ls
+  163  git status
+  164  ls
+  165  cd ..
+  166  ls
+  167  cd Git_Github_Practice/
+  168  ls
+  169  git add day2/
+  170  git push
+  171  git help
+  172  git commit
+  173  git commit -m "testing 2"
+  174  git push
+  175  git status
+  176  tree
+  177  ls
+  178  history >> history.txt
